@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import java.util.*;
 public class hello{
 	public static void main(String[] args){
@@ -26,6 +27,12 @@ import java.util.*;
 public class hello{
 	public static void main(String[] args){
 
+=======
+import java.util.*;
+public class hello{
+	public static void main(String[] args){
+
+>>>>>>> Everything was fine just for testing
 
 
 		Scanner sc = new Scanner(System.in);
@@ -37,7 +44,10 @@ public class hello{
 	       	System.out.println("The sum and multiplication is "+(a+b)+" "+(a*b));
         
 
+<<<<<<< HEAD
 >>>>>>> Add some mathematical expression in dev
+=======
+>>>>>>> Everything was fine just for testing
 }
 
 }

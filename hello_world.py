@@ -7,6 +7,7 @@ c=v+8
 print(c)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 print("Hello I'M doing this again ")
 =======
@@ -15,3 +16,7 @@ print("Hello I'M doing this again ")
 
 print("Hello I'M doing this again ")
 >>>>>>> new changes in hello_world.py
+=======
+
+print("Hello I'M doing this again ")
+>>>>>>> Everything was fine just for testing
