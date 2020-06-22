@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.*;
 public class hello{
 	public static void main(String[] args){
@@ -13,6 +14,12 @@ public class hello{
 	       	System.out.println("The sum and multiplication is "+(a+b)+" "+(a*b));
         
 
+=======
+public class hello{
+	public static void main(String[] args){
+
+        System.out.println("hello its me");
+>>>>>>> Add the java file to test
 }
 
 }
