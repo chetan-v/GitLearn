@@ -8,6 +8,10 @@ print(c)
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  
+>>>>>>> Make everything clear and Understandable
 
 print("Hello I'M doing this again ")
 =======
