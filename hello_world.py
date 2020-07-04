@@ -9,6 +9,7 @@ print(c)
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   
 >>>>>>> Make everything clear and Understandable
@@ -24,3 +25,8 @@ print("Hello I'M doing this again ")
 
 print("Hello I'M doing this again ")
 >>>>>>> Everything was fine just for testing
+=======
+  
+
+print("Hello I'M doing this again ")
+>>>>>>> c59f22743edbed1b0e97962c7de5be88b3315853
